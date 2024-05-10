@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+/**************
+
+*****************/
+
+.size-18{
+	font-size:18px;
+	font-weight:bold;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus
+{
+	color: #FFC107;
+}
+.margin-bottom
+{
+	margin-top:25px;
+}
+a{
+	cursor:pointer;
+}
+.padding-haut{
+	padding-top:15px;
+	padding-bottom:15px;
+}
+
+.bg-noir{
+	background-color:#03A9F4;
+
+}
+.navbar-default .navbar-nav > li > a,.navbar-default .navbar-brand
+{
+	font-size:18px;
+	color:#FFF;
+}
+.blon
+{
+	color:#FFF;
+}
+.chtub
+{
+	left:50%;
+	right:50%;
+	display:block;
+}
